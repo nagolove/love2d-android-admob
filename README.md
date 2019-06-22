@@ -1,9 +1,9 @@
 Android Port of LÖVE, the awesome 2D game engine LÖVE (http://love2d.org)
 
 This repository is a fork of the projects:
-https://bitbucket.org/rude/love/
-https://bitbucket.org/bio1712/love2d-admob-android/
-https://bitbucket.org/MartinFelis/love-android-sdl2/
+* https://bitbucket.org/rude/love/
+* https://bitbucket.org/bio1712/love2d-admob-android/
+* https://bitbucket.org/MartinFelis/love-android-sdl2/
 
 Admob instruction - https://love2d.org/forums/viewtopic.php?f=5&t=84226
 
